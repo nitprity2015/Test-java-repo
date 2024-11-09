@@ -1,0 +1,5 @@
+class prity{
+  hello prity;
+
+
+}
